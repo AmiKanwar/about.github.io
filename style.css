@@ -1,0 +1,118 @@
+.neon{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #fff;
+	font-size: 55px; 
+	text-shadow: 0 0 20px lime;
+}
+.neon:after{
+	content: attr(data-text);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	color: #ff005b;
+	filter: blur(15px);
+}
+.neon:before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: lime;
+	z-index: -2;
+	opacity: .7;
+	filter: blur(40px);
+}
+h1{
+	margin-left: 20px;
+}
+
+.link{
+	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+}
+ .link2{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+}
+ .link3{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+} .link4{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+} .link5{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+} .link6{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+} .link7{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+} .link8{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+}
+ .link9{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+}
+ .link10{
+ 	position: absolute;
+	text-align: center;
+	margin-top: 270px;
+	margin-left: 400px;
+	font-size: 50px;
+	overflow: hidden;
+	
+}
+
